@@ -1,4 +1,4 @@
-# Smriti Saathi NER - VS Code Edition
+# Smriti Saathi NER 
 
 Smriti Saathi is an accessible cognitive-gaming and memory-assistance prototype for older adults, caregivers and health workers in India’s North Eastern Region.
 
